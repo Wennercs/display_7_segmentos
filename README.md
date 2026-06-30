@@ -150,9 +150,13 @@ Essa abordagem elimina a necessidade de programação, utilizando exclusivamente
 # Circuito
  
 
-```markdown
-*[Circuito](imagens/circuito.png)* 
-```
+## Circuito
+
+A Figura 1 apresenta o circuito desenvolvido no Logisim Evolution.
+
+![Circuito](imagens/circuito.png)
+
+*Figura 1 – Circuito desenvolvido.*
 
 ---
 
