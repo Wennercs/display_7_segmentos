@@ -152,7 +152,7 @@ Essa abordagem elimina a necessidade de programação, utilizando exclusivamente
 
 ## Circuito
 
-A Figura 1 apresenta o circuito desenvolvido no Logisim Evolution.
+A Figura 1 apresenta o circuito desenvolvido no Logisim.
 
 ![Circuito](imagens/circuito.png)
 
