@@ -151,7 +151,7 @@ Essa abordagem elimina a necessidade de programação, utilizando exclusivamente
  
 
 ```markdown
-![Circuito](imagens/circuito.png)
+**[Circuito](imagens/circuito.png)** 
 ```
 
 ---
